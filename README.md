@@ -1,3 +1,3 @@
-# AlgoCasts
+# Interview Questions
 
-Companion repo to a course on Udemy.com
+Various questions relating to interviews, for practising alogrithms 
